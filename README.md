@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Software+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 🚀 Về tôi
-
-- 🔭 Hiện tại tôi đang làm việc với **[công nghệ/dự án của bạn]**
-- 🌱 Đang học **[ngôn ngữ/framework bạn đang học]**
-- 👯 Tìm kiếm cơ hội hợp tác trong **[lĩnh vực quan tâm]**
-- 💬 Hỏi tôi về **[kỹ năng chuyên môn của bạn]**
-- ⚡ Fun fact: **[điều thú vị về bạn]**
-
 ## 🛠️ Ngôn ngữ & Công cụ
 
 <div align="center">
@@ -51,17 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuongtt2004&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🔥 Dự án nổi bật
-
-### [Tên Dự Án 1](link-to-repo)
-Mô tả ngắn gọn về dự án của bạn
-- 🛠️ Công nghệ: React, Node.js, MongoDB
-- ⭐ Features: Feature 1, Feature 2, Feature 3
-
-### [Tên Dự Án 2](link-to-repo)
-Mô tả ngắn gọn về dự án của bạn
-- 🛠️ Công nghệ: Python, Django, PostgreSQL
-- ⭐ Features: Feature 1, Feature 2, Feature 3
 
 ## 📫 Liên hệ với tôi
 
