@@ -32,30 +32,8 @@
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thuongtt2004&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuongtt2004&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuongtt2004&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thuongtt2004&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Activity Graph
 
